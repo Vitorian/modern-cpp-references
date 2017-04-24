@@ -57,6 +57,7 @@ and leverage modern C++11 and beyond.
 * [sqlite3pp](https://github.com/iwongu/sqlite3pp) - C++ wrapper of SQLite3 API.
 * [sqlite_orm](https://github.com/fnc12/sqlite_orm) - powerful header only SQLite3 ORM library for C++14
 * [sqlpp11](https://github.com/rbock/sqlpp11) - A type safe SQL template library for C++.
+* [TBB](https://github.com/01org/tbb) - Intel Threading Building Blocks library for advanced multithreaded operations in C++.
 * [tinyformat.h](https://github.com/c42f/tinyformat) - Minimal, type safe printf replacement library for C++.
 * [tinytoml](https://github.com/mayah/tinytoml) -A header only C++11 library for parsing TOML.
 * [tweeny](https://github.com/mobius3/tweeny) - A header only interpolation library with 30+ easing functions.
