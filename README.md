@@ -10,27 +10,25 @@ and leverage modern C++11 and beyond.
 
 ## Books
 
-* [The C++ Programming Language](http://www.amazon.com/dp/0321958322) (Bjarne Stroustrup) [C++11]
-* [Effective Modern C++](http://www.amazon.com/dp/1491903996) (Scott Meyers) [C++11/14]
-* [Overview of the New C++](http://www.artima.com/shop/overview_of_the_new_cpp) (Scott Meyers) [C++11/14]
-* [C++ Core Guidelines](https://github.com/isocpp/CppCoreGuidelines) (Bjarne Stroustrup, Herb Sutter) [C++11/14/17] - Guidelines for using modern C++.
+* [The C++ Programming Language](http://amzn.to/2rAE2cK) (Bjarne Stroustrup) [C++11]
+* [Effective Modern C++](http://amzn.to/2qXjOZT) (Scott Meyers) [C++11/14]
 
 ### Beginner
 
 Introductory, no previous programming experience
 
-* [Programming: Principles and Practice Using C++ (Bjarne Stroustrup) (updated for C++11/C++14)](https://www.amazon.com/dp/0321992784/) An introduction to programming using C++ by the creator of the language. A good read, that assumes no previous programming experience, but is not only for beginners.
+* [Programming: Principles and Practice Using C++ (Bjarne Stroustrup) (updated for C++11/C++14)](http://amzn.to/2qX9ssX) An introduction to programming using C++ by the creator of the language. A good read, that assumes no previous programming experience, but is not only for beginners.
+
 Introductory, with previous programming experience
 
-* [C++ Primer * (Stanley Lippman, Josée Lajoie, and Barbara E. Moo) (updated for C++11)](https://www.amazon.com/dp/0321714113) Coming at 1k pages, this is a very thorough introduction into C++ that covers just about everything in the language in a very accessible format and in great detail. The fifth edition (released August 16, 2012) covers C++11. [Review]
-A Tour of C++ (Bjarne Stroustrup) (EBOOK) The “tour” is a quick (about 180 pages and 14 chapters) tutorial overview of all of standard C++ (language and standard library, and using C++11) at a moderately high level for people who already know C++ or at least are experienced programmers. This book is an extended version of the material that constitutes Chapters 2-5 of The C++ Programming Language, 4th edition.
-Accelerated C++ (Andrew Koenig and Barbara Moo) This basically covers the same ground as the C++ Primer, but does so on a fourth of its space. This is largely because it does not attempt to be an introduction to programming, but an introduction to C++ for people who've previously programmed in some other language. It has a steeper learning curve, but, for those who can cope with this, it is a very compact introduction into the language. (Historically, it broke new ground by being the first beginner's book to use a modern approach at teaching the language.) [Review]
-Thinking in C++ (Bruce Eckel) Two volumes; is a tutorial style free set of intro level books. Downloads: vol 1, vol 2. Unfortunately they’re marred by a number of trivial errors (e.g. maintaining that temporaries are automatically const), with no official errata list. A partial 3rd party errata list is available at (http://www.computersciencelab.com/Eckel.htm), but it’s apparently not maintained.
-* Not to be confused with C++ Primer Plus (Stephen Prata), with a significantly less favorable review.
+* [C++ Primer *](http://amzn.to/2qhkshD) (Stanley Lippman, Josée Lajoie, and Barbara E. Moo) (updated for C++11)(https://www.amazon.com/dp/0321714113) Coming at 1k pages, this is a very thorough introduction into C++ that covers just about everything in the language in a very accessible format and in great detail. The fifth edition (released August 16, 2012) covers C++11. [Review]
+* [A Tour of C++](http://amzn.to/2qX1RsF) (Bjarne Stroustrup) (EBOOK) The “tour” is a quick (about 180 pages and 14 chapters) tutorial overview of all of standard C++ (language and standard library, and using C++11) at a moderately high level for people who already know C++ or at least are experienced programmers. This book is an extended version of the material that constitutes Chapters 2-5 of The C++ Programming Language, 4th edition.
+* [Accelerated C++](http://amzn.to/2rRbg4T) (Andrew Koenig and Barbara Moo) This basically covers the same ground as the C++ Primer, but does so on a fourth of its space. This is largely because it does not attempt to be an introduction to programming, but an introduction to C++ for people who've previously programmed in some other language. It has a steeper learning curve, but, for those who can cope with this, it is a very compact introduction into the language. (Historically, it broke new ground by being the first beginner's book to use a modern approach at teaching the language.) [Review]
+* [Thinking in C++ - Volume 1](http://amzn.to/2ri2qjD) [Volume 2](http://amzn.to/2rAJpZA) (Bruce Eckel) Two volumes; is a tutorial style free set of intro level books. Downloads: vol 1, vol 2. Unfortunately they’re marred by a number of trivial errors (e.g. maintaining that temporaries are automatically const), with no official errata list. A partial 3rd party errata list is available at (http://www.computersciencelab.com/Eckel.htm), but it’s apparently not maintained.  Not to be confused with C++ Primer Plus (Stephen Prata), with a significantly less favorable review.
 
 Best practices
 
-Effective C++ (Scott Meyers) This was written with the aim of being the best second book C++ programmers should read, and it succeeded. Earlier editions were aimed at programmers coming from C, the third edition changes this and targets programmers coming from languages like Java. It presents ~50 easy-to-remember rules of thumb along with their rationale in a very accessible (and enjoyable) style. For C++11 and C++14 the examples and a few issues are outdated and Effective Modern C++ should be preferred. [Review]
+[Effective C++](http://amzn.to/2qX3mJh) (Scott Meyers) This was written with the aim of being the best second book C++ programmers should read, and it succeeded. Earlier editions were aimed at programmers coming from C, the third edition changes this and targets programmers coming from languages like Java. It presents ~50 easy-to-remember rules of thumb along with their rationale in a very accessible (and enjoyable) style. For C++11 and C++14 the examples and a few issues are outdated and Effective Modern C++ should be preferred. [Review]
 Effective Modern C++ (Scott Meyers) This is basically the new version of Effective C++, aimed at C++ programmers making the transition from C++03 to C++11 and C++14.
 Effective STL (Scott Meyers) This aims to do the same to the part of the standard library coming from the STL what Effective C++ did to the language as a whole: It presents rules of thumb along with their rationale. [Review]
 Intermediate
