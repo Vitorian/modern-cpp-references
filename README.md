@@ -154,3 +154,11 @@ Note: Some information contained within these books may not be up-to-date or no 
 * [irony-mode](https://github.com/Sarcasm/irony-mode) -  A C/C++ minor mode for Emacs powered by libclang.
 * [modern-cpp-font-lock-mode](https://github.com/ludwigpacifici/modern-cpp-font-lock) - Syntax highlighting support for Modern C++ with emacs
 
+This list has been compiled by **Henrique Bucher** with the help of the C++ community.
+
+- [Vitorian LLC](vitorian.com/x1)
+- [henry@vitorian.com](mailto:henry@vitorian.com)
+- [github.com/hftrader](https://github.com/hftrader)
+- [twitter.com/hftconsulting](https://twitter.com/hftconsulting)
+- [linkedin.com/in/hftrader](https://www.linkedin.com/in/hftrader)
+
