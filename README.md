@@ -223,7 +223,7 @@ Note: Some information contained within these books may not be up-to-date or no 
 
 This list has been compiled by **Henrique Bucher** with the help of the C++ community.
 
-- [Vitorian LLC](vitorian.com/x1)
+- [Vitorian LLC](https://vitorian.com/x1)
 - [henry@vitorian.com](mailto:henry@vitorian.com)
 - [github.com/hftrader](https://github.com/hftrader)
 - [twitter.com/hftconsulting](https://twitter.com/hftconsulting)
