@@ -29,7 +29,7 @@ Introductory, with previous programming experience
 * [C++20 - The Complete Guide](https://leanpub.com/cpp20) (Nicolai Josuttis) Comprehensive guide to all C++20 features including concepts, ranges, coroutines, modules, and more. Written by an experienced C++ trainer and book author.
 * [C++ Best Practices](https://leanpub.com/cppbestpractices) (Jason Turner) A collection of best practices for modern C++ development, covering topics from compilation to testing and debugging.
 
-### ### Intermediate
+### Intermediate
 
 * [More Effective C++](http://amzn.to/2qXlrot) (Scott Meyers) Even more rules of thumb than Effective C++. Not as important as the ones in the first book, but still good to know.
 * [Exceptional C++](http://amzn.to/2qXwiRh) (Herb Sutter) Presented as a set of puzzles, this has one of the best and thorough discussions of the proper resource management and exception safety in C++ through Resource Acquisition is Initialization (RAII) in addition to in-depth coverage of a variety of other topics including the pimpl idiom, name lookup, good class design, and the C++ memory model. [Review]
@@ -77,6 +77,16 @@ Note: Some information contained within these books may not be up-to-date or no 
 * [Inside the C++ Object Model](http://amzn.to/2rinHcR) (Stanley Lippman) If you want to know how virtual member functions are commonly implemented and how base objects are commonly laid out in memory in a multi-inheritance scenario, and how all this affects performance, this is where you will find thorough discussions of such topics.
 * [The Annotated C++ Reference Manual](http://amzn.to/2qQgX4t) (Bjarne Stroustrup, Margaret A. Ellis) This book is quite outdated in the fact that it explores the 1989 C++ 2.0 version - Templates, exceptions, namespaces and new casts were not yet introduced. Saying that however, this book goes through the entire C++ standard of the time explaining the rationale, the possible implementations and features of the language. This is not a book to learn programming principles and patterns on C++, but to understand every aspect of the C++ language.
 
+## Online Resources
+
+* [Learn C++](https://www.learncpp.com/) - Free comprehensive tutorial covering C++ from basics to advanced topics.
+* [C++ Tutorial](https://cplusplus.com/doc/tutorial/) - Classic online tutorial covering C++ fundamentals.
+* [Hackingcpp](https://hackingcpp.com/) - Modern visual guides and cheat sheets for C++.
+* [Compiler Explorer (Godbolt)](https://godbolt.org/) - Explore how C++ code compiles to assembly.
+* [C++ Insights](https://cppinsights.io/) - See source transformations performed by the compiler.
+* [Quick C++ Benchmark](https://quick-bench.com/) - Quick online benchmarking tool for C++ code snippets.
+* [Standard C++](https://isocpp.org/) - Official C++ website with news, resources, and information.
+
 ## Blogs
 
 * [Andrzej's C++ blog](https://akrzemi1.wordpress.com/) - Guidelines and thoughts about C++.
@@ -111,6 +121,15 @@ Note: Some information contained within these books may not be up-to-date or no 
 * [Core C++](https://corecpp.org/) - C++ conference in Israel.
 * [CPPP](https://cppp.fr/) - C++ conference in France.
 * [embo++](https://www.embo.io/) - European conference focused on embedded C++.
+
+## Video Content
+
+* [CppCon YouTube Channel](https://www.youtube.com/user/CppCon) - Hundreds of talks from CppCon conferences.
+* [C++ Weekly](https://www.youtube.com/c/lefticus1) - Jason Turner's weekly C++ video series covering tips, tricks, and news.
+* [Meeting C++ YouTube Channel](https://www.youtube.com/user/MeetingCPP) - Conference talks and interviews.
+* [Back to Basics](https://www.youtube.com/playlist?list=PLHTh1InhhwT5o3GwbFYy3sR7HDNRA353e) - CppCon series explaining fundamental C++ concepts.
+* [CppNow YouTube Channel](https://www.youtube.com/user/BoostCon) - C++ Now conference talks.
+* [ACCU Conference YouTube](https://www.youtube.com/channel/UCJhay24LTpO1s4bIZxuIqKw) - ACCU conference presentations.
 
 ## Libraries
 
